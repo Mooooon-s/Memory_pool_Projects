@@ -1,2 +1,4 @@
 # Memory_pool_Projects
- This project is for implement of own Memory pool
+### Start at 2023-11-03   
+ Projects for studying and implementing memory pools  
+I will be writing both theory and implementation code
